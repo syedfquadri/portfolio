@@ -9,5 +9,15 @@ Features:
 
 Contents:
 - CV (PDF)
-- Experience/Study (illustrated in timeline and gallery)
+- Online CV
+	- Photo and SM hyperlinks
+	- About me Para
+	- Experience/Study (illustrated in timeline and gallery)
+	- Skills/Tech_stack/Technology
+		- Knows
+		- Knows how to tinker
+		- Learning/Would like to learn
+	- Projects (Professional)
+	- References (Download on Request)
 - Resources
+	- Tech/Concepts wise
