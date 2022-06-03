@@ -1,3 +1,5 @@
+### TO DO:
+
 Features:
 - Multilingual (En/Cn)
 - Day-Night
@@ -15,7 +17,7 @@ Contents:
 	- Experience/Study (illustrated in timeline and gallery)
 	- Skills/Tech_stack/Technology
 		- Knows
-		- Knows how to tinker
+		- Knows how to tinker/Debug
 		- Learning/Would like to learn
 	- Projects (Professional)
 	- References (Download on Request)
