@@ -47,11 +47,19 @@ INSTALLED_APPS = [
     'treebeard',
     'djangocms_admin_style',
     'sekizai',
+
     'filer',
     'easy_thumbnails',
+    'mptt',
+    
     'djangocms_text_ckeditor',
     'djangocms_picture',
     # 'djangocms_link',
+    # 'djangocms_file',
+    # 'djangocms_video',
+    # 'djangocms_googlemap',
+    'djangocms_snippet',
+    'djangocms_style',
 
     # third party apps
 
@@ -155,4 +163,8 @@ SITE_ID = 1
 LANGUAGES = [
     ('en-us', 'English'),
     ('zh-hans', 'Chinese Simplified')
+]
+
+CMS_TEMPLATES = [
+    ('home.html', 'Home page template'),
 ]
